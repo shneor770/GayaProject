@@ -29,3 +29,12 @@
         api.js
         index.html
 ```
+
+## Documentation
+The progrem can get two parameter and excute the following operation: 
+- Plus
+- Minus
+- Multiply
+- Divide
+- Modulo
+- Discount
