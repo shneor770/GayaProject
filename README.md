@@ -1,5 +1,5 @@
 # GayaProject
-GayaProject
+```GayaProject
 │   appsettings.json
 │   Program.cs
 │   README.md
@@ -24,7 +24,4 @@ GayaProject
 │       ProcessAction.cs
 └───wwwroot
         api.js
-        index.html
-
-
-D:\angular\GayaProject>
+        index.html```
