@@ -48,7 +48,7 @@ When the client performs an action data will be displayed on the screen by opera
 - Maximum Result of current oprations
 - Avrage Result of current oprations
 
-  ## screenshot
+  ## Screenshot
 ![5](https://github.com/user-attachments/assets/8a75888d-33d3-4eb5-ab7e-bf4b68696aa0)
 ![1](https://github.com/user-attachments/assets/a0e68fef-fab6-43cd-8f1e-e3a7aa8e9ccd)
 ![2](https://github.com/user-attachments/assets/9d91dea1-60b6-4bed-bb04-baa539602f19)
