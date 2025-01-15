@@ -1,7 +1,8 @@
 # GayaProject
 
 ## Structure
-```GayaProject
+```
+|GayaProject
 │   appsettings.json
 │   Program.cs
 │   README.md
@@ -26,4 +27,5 @@
 │       ProcessAction.cs
 └───wwwroot
         api.js
-        index.html```
+        index.html
+```
